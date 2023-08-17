@@ -2,7 +2,7 @@ function enterPortal() {
     const audio = new Audio('turn ur phone off.mp3');
     const typing = document.getElementById('typing');
     const cursor = document.getElementById('cursor');
-    const texts = ["asyylum", "lol", ":3"];
+    const texts = [">_-", "rottingblade", "lol"];
     let textIndex = 0;
     let charIndex = 0;
     audio.addEventListener('ended', function() {
