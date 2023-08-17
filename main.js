@@ -1,5 +1,5 @@
 function enterPortal() {
-    const audio = new Audio('No more talk.mp3');
+    const audio = new Audio('turn ur phone off.mp3');
     const typing = document.getElementById('typing');
     const cursor = document.getElementById('cursor');
     const texts = ["asyylum", "lol", ":3"];
